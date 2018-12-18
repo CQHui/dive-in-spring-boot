@@ -10,4 +10,5 @@ spring boot深入实践课程学习demo
 ### 已完成模块
 
 - 自动装配
+- spring application启动器
 

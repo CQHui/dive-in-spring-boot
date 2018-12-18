@@ -16,6 +16,7 @@
 
     <modules>
         <module>autoconfigure</module>
+        <module>spring-application</module>
     </modules>
 
     <properties>
